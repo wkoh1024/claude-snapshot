@@ -32,9 +32,8 @@ cp claude-snapshot/commands/*.md ~/.claude/commands/
 Or just download the two files directly:
 
 ```bash
-mkdir -p ~/.claude/commands
-curl -o ~/.claude/commands/generate-snapshot.md https://raw.githubusercontent.com/YOUR_USERNAME/claude-snapshot/main/commands/generate-snapshot.md
-curl -o ~/.claude/commands/update-snapshot.md https://raw.githubusercontent.com/YOUR_USERNAME/claude-snapshot/main/commands/update-snapshot.md
+curl -o ~/.claude/commands/generate-snapshot.md https://raw.githubusercontent.com/wkoh1024/claude-snapshot/main/commands/generate-snapshot.md
+curl -o ~/.claude/commands/update-snapshot.md https://raw.githubusercontent.com/wkoh1024/claude-snapshot/main/commands/update-snapshot.md
 ```
 
 ## Usage
